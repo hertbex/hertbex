@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hertbex)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hertbex)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hertbex&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hertbex&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hertbex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-markdown
-### 📈 GitHub Activity Graph:
 ![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user
